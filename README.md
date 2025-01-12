@@ -1,6 +1,6 @@
 ## ⚙️ Vitor Zielinski ( Glorium )
 Acadêmico de Engenharia Mecânica, UFPR. <br>
-Realizo trabalhos de modelagem tanto física como matemática envolvendo Dinâmica Veicular de protótipos diversos, análise de dados provenientes dos meios de teste estáticos e dinâmicos (Bancadas, Protótipos e outros), validação de modelagem envolvendo os diversos subsistemas automotivos, implementação de AI em protótipos e sistemas de validação, controle e previsão de fatores envolvendo Dinâmica Veicular e realizo também simulações numéricas com maior enfase em aplicações envolvendo Térmodinâmica, Mecânica, Vibrações, Teorias de Falha e CFD.
+Realizo trabalhos de modelagem tanto física como matemática envolvendo Dinâmica Veicular de protótipos diversos, análise de dados provenientes dos meios de teste estáticos e dinâmicos (Bancadas, Protótipos e outros), validação de modelagem envolvendo os diversos subsistemas automotivos, implementação de AI em protótipos e sistemas de validação, controle e previsão de fatores envolvendo Dinâmica Veicular e realizo também simulações numéricas com maior enfase em aplicações envolvendo Térmodinâmica, Mecânica, Vibrações, Teorias de Falha e CFD. Apaixonado por velocidade, engenharia e automobilismo.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorglorium/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.glorium/)
@@ -15,10 +15,11 @@ Realizo trabalhos de modelagem tanto física como matemática envolvendo Dinâmi
   <img align="center" alt="Esp" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 </div>
 
+**ENGINEERING SOFTWARES: ANSYS | CATIA V5/V6 | SOLIDWORKS | LOTUS | MATLAB | SIMULINK | EES**
+
 ## Estatisticas
 ![Glorium GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorglorium&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
-Apaixonado por velocidade, engenharia e automobilismo.
-<div style="display: inline_block"><br/>
+<div style="display: inline_block"><br>
   <img align="center" alt="science" src="http://ForTheBadge.com/images/badges/built-with-science.svg">
 </div>
