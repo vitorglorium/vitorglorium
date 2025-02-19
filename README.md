@@ -17,9 +17,6 @@ Realizo trabalhos de modelagem tanto física como matemática envolvendo Dinâmi
 
 **ENGINEERING SOFTWARES: ANSYS | CATIA V5/V6 | SOLIDWORKS | LOTUS | MATLAB | SIMULINK | EES**
 
-## Estatisticas
-![Glorium GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorglorium&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="science" src="http://ForTheBadge.com/images/badges/built-with-science.svg">
 </div>
